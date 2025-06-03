@@ -1,1 +1,1 @@
-Metasploit log
+Metasploit module output.

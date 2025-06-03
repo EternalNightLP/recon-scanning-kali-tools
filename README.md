@@ -1,19 +1,18 @@
 # Reconnaissance & Scanning – Kali Linux Tools
 
-This repository contains results and usage notes for basic recon and scanning using Kali tools.
+This repo documents recon & scanning using Kali tools:
 
-## Tools Used
-- Netdiscover
-- Nmap
-- Wireshark
-- Burp Suite
-- OWASP ZAP
-- Metasploit Framework
+## Folders
+- netdiscover/
+- nmap/
+- wireshark/
+- burp-suite/
+- zap/
+- metasploit/
 
-## Structure
-- `netdiscover/` – ARP scanning results
-- `nmap/` – Port scanning and service detection
-- `wireshark/` – Packet captures
-- `burp-suite/` – Web intercept results
-- `zap/` – Automated vulnerability scan reports
-- `metasploit/` – Exploit and auxiliary logs
+## How to Run:
+1. Use netdiscover for ARP scan
+2. Nmap for port, service, and OS detection
+3. Wireshark for packet capture
+4. Burp/ZAP for web app scanning
+5. Metasploit for post-scan exploitation

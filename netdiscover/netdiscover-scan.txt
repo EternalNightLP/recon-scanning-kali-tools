@@ -1,1 +1,1 @@
-Netdiscover output will go here
+Netdiscover output goes here.
