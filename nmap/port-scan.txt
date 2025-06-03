@@ -1,1 +1,1 @@
-Nmap scan output.
+Nmap scan output

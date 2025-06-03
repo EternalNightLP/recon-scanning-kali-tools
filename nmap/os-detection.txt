@@ -1,1 +1,1 @@
-OS detection results.
+OS detection results
